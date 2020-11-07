@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ETH Gas Tracker</string>
+    <string name="fastest">Fastest</string>
+    <string name="fast">Fast</string>
+    <string name="average">Average</string>
+    <string name="slow">Slow</string>
+    <string name="_0">0</string>
+</resources>
